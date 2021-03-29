@@ -85,7 +85,6 @@ programa
 			soma10 = 0
 		}
 
-
 		limpa()
 		
 		
